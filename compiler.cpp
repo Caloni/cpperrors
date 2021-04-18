@@ -3,13 +3,6 @@
 #include "linker.h"
 
 
-// uncomment line below to explode
-//#define CANNOT_CONVERT_ERROR
-
-// uncomment line below to explode
-//#define MISSING_PARENTHESIS_ERROR
-
-
 int compilerFuncionDoesNotExistsError(int a)
 {
 	int ret = a * 2;

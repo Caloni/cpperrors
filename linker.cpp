@@ -2,9 +2,6 @@
 #include "linker.h"
 #include "compiler.h"
 
-// uncomment line below to explode
-//#define UNRESOLVED_EXTERNAL_ERROR
-
 void linkerErrors()
 {
 	scopeError();

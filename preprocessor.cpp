@@ -1,8 +1,5 @@
 #include "cpperrors.h"
 
-// uncomment line below to explode
-//#define FUNCTION_NOT_DEFINED_ERROR
-
 #ifdef FUNCTION_NOT_DEFINED_ERROR
 #define __PREPROCESSOR_H__
 #endif
